@@ -1,7 +1,7 @@
 # University Pedagogy in the Field of Life, Environmental and Data Sciences
-Ruuskanen MO<sup>1</sup> & Toivonen JM<sup>2</sup>
-<sup>1</sup>Department of Computing, University of Turku, matti.ruuskanen@utu.fi
-<sup>2</sup>Biodiversity Unit, University of Turku, jomito@utu.fi
+Ruuskanen MO<sup>1</sup> & Toivonen JM<sup>2</sup>\
+<sub><sup>1</sup>Department of Computing, University of Turku, matti.ruuskanen@utu.fi</sub>\
+<sub><sup>2</sup>Biodiversity Unit, University of Turku, jomito@utu.fi</sub>
 
 ## Journals
 1. [Journal of Biological Education](https://www.tandfonline.com/journals/rjbe20)
@@ -43,5 +43,5 @@ Ruuskanen MO<sup>1</sup> & Toivonen JM<sup>2</sup>
 - [Climate change: a cross-disciplinary challenge in education](https://www.tandfonline.com/doi/full/10.1080/03057267.2021.2011589)
 - [Big data and AI applications in biological questions](https://link.springer.com/article/10.1007/s11538-020-00785-0)
 
-These resources were gathered for a poster presentation for the University Pedagogy 3 course at University of Turku in May 2023.
+These resources were gathered for a poster presentation for the University Pedagogy 3 course at University of Turku in May 2023.\
 Due to changes in URLs and the external web pages, some of the links might cease to function over time. You can file an issue in this repository if you encounter any broken links.
