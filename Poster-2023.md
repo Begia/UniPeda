@@ -1,4 +1,7 @@
 # University Pedagogy in the Field of Life, Environmental and Data Sciences
+Ruuskanen MO<sup>1</sup> & Toivonen JM<sup>2</sup>
+<sup>1</sup>Department of Computing, University of Turku, matti.ruuskanen@utu.fi
+<sup>2</sup>Biodiversity Unit, University of Turku, jomito@utu.fi
 
 ## Journals
 1. [Journal of Biological Education](https://www.tandfonline.com/journals/rjbe20)
@@ -21,9 +24,9 @@
 4. [Undergraduate Biology Education Research GRC (Gordon Research Conferences)](https://www.grc.org/undergraduate-biology-education-research-conference/)
 5. [North American Association for Environmental Education Conference & Research Symposium](https://conference.naaee.org/)
 6. [Numerous conferences in Statistics](https://community.amstat.org/statisticaleducationsection/conferences/upcomingconferences)
-  - [Electronic Conference On Teaching Statistics](https://www.causeweb.org/ecots)
-  - [International Association for Statistical Education - Roundtable Conference](http://iase-web.org/)
-  - [International Conference on the Teaching of Statistics](http://iase-web.org/Conferences.php)
+    - [Electronic Conference On Teaching Statistics](https://www.causeweb.org/ecots)
+    - [International Association for Statistical Education - Roundtable Conference](http://iase-web.org/)
+    - [International Conference on the Teaching of Statistics](http://iase-web.org/Conferences.php)
 
 ## Networks and communities
 1. [Biodiversity education network of Finnish universities](https://www.biodiversityeducation.fi/en/)
