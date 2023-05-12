@@ -1,7 +1,7 @@
 # University Pedagogy in the Field of Life, Environmental and Data Sciences
 Ruuskanen MO<sup>1</sup> & Toivonen JM<sup>2</sup>\
-<sub><sup>1</sup>Department of Computing, University of Turku, matti.ruuskanen@utu.fi</sub>\
-<sub><sup>2</sup>Biodiversity Unit, University of Turku, jomito@utu.fi</sub>
+<sub><sup>1</sup>Department of Computing, University of Turku, matti.ruuskanen (ät) utu.fi</sub>\
+<sub><sup>2</sup>Biodiversity Unit, University of Turku, jomito (ät) utu.fi</sub>
 
 ## Journals
 1. [Journal of Biological Education](https://www.tandfonline.com/journals/rjbe20)
